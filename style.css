@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+.menu {
+    width: 100%;
+    top:0%;
+    left: 0%;
+    height: 4%;
+    position: fixed;
+    background-color: #202125;
+    filter: blur(2px);
+}
+.text_logo {
+    position: fixed;
+
+    color: #01b075;    
+    left:0.1%;
+    top:-2.5%;
+    font-size: 150%;
+    font-weight: bolder;
+    font-family: 'Alkatra', cursive;
+}
+.main {
+    position: fixed;
+
+    color: #848589;    
+    left:83%;
+    top:0%;
+    font-size: 150%;
+    font-weight: lighter;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;}
+.downloads {
+    position: fixed;
+
+    color: #848589;    
+    left:90%;
+    top:0%;
+    text-decoration: none;
+    font-size: 150%;
+    font-weight: lighter;
+    font-family: 'Roboto Slab', serif;
+}
+body {
+    background: #2f3034;
+
+}
