@@ -44,3 +44,7 @@ body {
     background: #2f3034;
 
 }
+canvas{
+top: 0px;
+position:fixed;
+}
